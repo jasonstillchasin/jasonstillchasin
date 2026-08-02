@@ -8,12 +8,6 @@
 
 ---
 
-### 🏆 competition
-
-AMC Prize · AIMO Distinction · WMTC 2nd Place
-
----
-
 ### 🔬 quant research
 
 - **RECON**, an event study on S&P/ASX 200 index reconstitution with a pre-registered gate. Killed at the power analysis stage instead of forced into a false positive. Now a methods paper.
