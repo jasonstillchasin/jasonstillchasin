@@ -1,6 +1,6 @@
 <div align="center">
 
-# hey, I'm Jason 👋
+# Yo
 
 High school student in Sydney. Competition maths, quant research, and shipping software on the side.
 
@@ -8,11 +8,6 @@ High school student in Sydney. Competition maths, quant research, and shipping s
 
 ---
 
-### 🏆 competition
-
-AMC Prize · AIMO Distinction · WMTC 2nd Place
-
----
 
 ### 🔬 quant research
 
