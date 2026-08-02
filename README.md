@@ -1,13 +1,18 @@
 <div align="center">
 
-# Yo
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=hey,%20I'm%20Jason&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 
-High school student in Sydney. Competition maths, quant research, and shipping software on the side.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=High+school+student+in+Sydney;Competition+maths;Quant+research;Shipping+software+on+the+side" />
 
 </div>
 
 ---
 
+### 🏆 competition
+
+AMC Prize · AIMO Distinction · WMTC 2nd Place
+
+---
 
 ### 🔬 quant research
 
@@ -29,5 +34,17 @@ High school student in Sydney. Competition maths, quant research, and shipping s
 <div align="center">
 
 Python · LaTeX · React · FastAPI · n8n · Blender
+
+</div>
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
