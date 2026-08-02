@@ -6,6 +6,12 @@
 
 </div>
 
+Most of what I build exists to prove me wrong before anyone else can.
+
+My research uses pre-registered tests and explicit statistical gates, so a good story cannot survive on vibes alone—whether I am testing an index effect, a trading strategy, or an LLM agent’s factor selections. When something clears the bar, I write it up. When it does not, I write that up too.
+
+Outside research, I build software, from a peer-tutoring platform to my own AI assistant stack, and compete in mathematics olympiads, where learning to be wrong quickly is also a useful skill.
+
 ---
 
 ### 🔬 quant research
